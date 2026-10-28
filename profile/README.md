@@ -1,5 +1,3 @@
-<img width="720" height="720" alt="m314dev-avatar" src="https://github.com/user-attachments/assets/99181816-0c5a-4bc2-8efa-086fa042a377" />
-
 
 m314 is open-source multimedia engineering: tools and libraries that work at the level of streaming formats, encryption, live packaging and audio signal analysis. Everything is MIT licensed.
 
